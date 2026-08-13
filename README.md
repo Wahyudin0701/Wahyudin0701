@@ -10,7 +10,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&multiline=false&width=600&lines=🌿+Hello+World!+I'm+Wahyudin;🏔️+Nature+Explorer+%26+Code+Crafter;🌊+Building+Digital+Experiences;🌲+Where+Code+Meets+The+Wild" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&multiline=false&width=650&lines=Hello+World!+I'm+Wahyudin+%F0%9F%8C%BF;Nature+Explorer+%26+Code+Crafter+%F0%9F%8F%94%EF%B8%8F;Building+Digital+Experiences+%F0%9F%8C%8A;Where+Code+Meets+The+Wild+%F0%9F%8C%B2" alt="Animated typing text showing developer and nature explorer roles" />
 
 </div>
 
