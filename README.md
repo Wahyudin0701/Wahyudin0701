@@ -14,11 +14,11 @@
 
 <br/>
 
-I'm **Wahyudin**, an **Information Systems student at Universitas Jambi (UNJA)** with a proven ability to design and deliver web-based solutions from concept to deployment. I specialize in **backend development using PHP & Laravel**, with working proficiency in **C++, HTML, CSS, and JavaScript** — building systems that are structured, scalable, and built with the end user in mind.
+I'm **Wahyudin**, an **Information Systems student at Universitas Jambi (UNJA)** with a proven ability to design and deliver web-based solutions from concept to deployment. I specialize in **backend development using PHP & Laravel**, with working proficiency in **C++, HTML, CSS, and JavaScript** - building systems that are structured, scalable, and built with the end user in mind.
 
-I have contributed to real-world academic and collaborative projects including **attendance systems, UMKM integration platforms, and web management tools** — demonstrating the ability to meet deadlines, adapt to team dynamics, and translate requirements into functional software. I write clean, maintainable code and take ownership of my work from the first commit to final delivery.
+I have contributed to real-world academic and collaborative projects including **attendance systems, UMKM integration platforms, and web management tools** - demonstrating the ability to meet deadlines, adapt to team dynamics, and translate requirements into functional software. I write clean, maintainable code and take ownership of my work from the first commit to final delivery.
 
-Beyond the screen, I am a dedicated **nature traveler** — someone who navigates uncertainty, reads environments quickly, and stays composed under pressure. These traits translate directly into how I approach problem-solving in software: with patience, curiosity, and a clear sense of direction. 🌿
+Beyond the screen, I am a dedicated **nature traveler** - someone who navigates uncertainty, reads environments quickly, and stays composed under pressure. These traits translate directly into how I approach problem-solving in software: with patience, curiosity, and a clear sense of direction. 🌿
 
 <div align="center">
 
