@@ -26,6 +26,12 @@ Beyond the screen, I am a dedicated **nature traveler** - someone who navigates 
 
 </div>
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,cpp,mysql,git,github,vscode,figma&theme=dark" />
+
+</div>
+
 <br/>
 
 ---
@@ -59,31 +65,6 @@ Beyond the screen, I am a dedicated **nature traveler** - someone who navigates 
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-**🌐 Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
-
-<br/><br/>
-
-**⚙️ Backend**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,cpp,mysql&theme=dark" />
-
-<br/><br/>
-
-**🧰 Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-
-</div>
-
-<br/>
-
----
 
 ## 📊 GitHub Stats
 
