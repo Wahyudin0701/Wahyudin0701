@@ -36,26 +36,19 @@ Beyond the screen, I am a dedicated **nature traveler** - someone who navigates 
 
 ---
 
-## 🌿 Connect With Me
-
 <div align="center">
 
-<a href="mailto:wahyudin0701@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://instagram.com/Wahyudin0701">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/wahyudin0701">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/Wahyudin0701">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+## 🌿 Connect With Me
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Wahyudin0701&style=for-the-badge&color=1a6b3c&label=🌿+PROFILE+VIEWS" alt="Profile Views" />
+| <a href="mailto:muhammadwahyudin0701@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://instagram.com/why.udin._"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a> | <a href="https://linkedin.com/in/muhammad-wahyudin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | <a href="https://github.com/Wahyudin0701"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a> |
+|:---:|:---:|:---:|:---:|
+| muhammadwahyudin0701@gmail.com | why.udin.\_ | Muhammad Wahyudin | Wahyudin0701 |
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Wahyudin0701&style=for-the-badge&color=1a6b3c&label=PROFILE+VIEWS" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Wahyudin0701?style=for-the-badge&logo=github&logoColor=white&color=2e7d32&label=FOLLOWERS" alt="GitHub Followers" />
 
