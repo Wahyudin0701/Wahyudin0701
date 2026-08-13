@@ -24,7 +24,13 @@ I thrive in collaborative environments where I can contribute not only my techni
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=2000&color=81C784&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%22The+best+code%2C+like+the+best+trails%2C+is+clear%2C%22;%22purposeful%2C+and+leads+somewhere+worth+going.%22" alt="Philosophy quote animation" />
+<svg width="750" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="750" height="60" rx="12" fill="#0d1f0f"/>
+  <text font-family="Georgia, serif" font-size="15" fill="#81C784" font-style="italic" y="35">
+    <animate attributeName="x" from="760" to="-1100" dur="14s" repeatCount="indefinite"/>
+    ✦  Engineering logical systems that flow seamlessly, from raw data to user experience.  ✦
+  </text>
+</svg>
 
 </div>
 
