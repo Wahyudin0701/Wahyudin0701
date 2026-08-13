@@ -24,13 +24,7 @@ I thrive in collaborative environments where I can contribute not only my techni
 
 <div align="center">
 
-<svg width="750" height="60" xmlns="http://www.w3.org/2000/svg">
-  <rect width="750" height="60" rx="12" fill="#0d1f0f"/>
-  <text font-family="Georgia, serif" font-size="15" fill="#81C784" font-style="italic" y="35">
-    <animate attributeName="x" from="760" to="-1100" dur="14s" repeatCount="indefinite"/>
-    ✦  Engineering logical systems that flow seamlessly, from raw data to user experience.  ✦
-  </text>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=%E2%9C%A6%20Engineering%20logical%20systems%20that%20flow%20seamlessly%2C%20from%20raw%20data%20to%20user%20experience.%20%E2%9C%A6&fontSize=13&fontColor=81C784&animation=twinkling&fontAlignY=50&desc=&descAlignY=70" alt="floating quote animation" width="100%"/>
 
 </div>
 
