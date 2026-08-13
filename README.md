@@ -28,18 +28,7 @@ Beyond the screen, I am a dedicated **nature traveler** - someone who navigates 
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="Laravel" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,cpp,mysql,git,github,vscode,figma&theme=dark" />
 
 </div>
 
