@@ -1,35 +1,149 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hi,%20I'm%20Wahyudin&fontSize=50&fontAlignY=35&desc=A%20Web%20Developer%20&%20Nature%20Enthusiast&descAlignY=55&descSize=20&color=0:2E7D32,100:81C784&fontColor=ffffff" alt="header" />
+
+<!-- HERO BANNER — Wave + Animated Typing -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Wahyudin&fontSize=72&fontAlignY=38&desc=Web%20Developer%20%7C%20Nature%20Explorer%20%7C%20Adventurer&descAlignY=60&descSize=18&color=0:0d3b1e,50:1a6b3c,100:4caf50&fontColor=e8f5e9&animation=twinkling&stroke=2e7d32&strokeWidth=1" alt="hero-banner" width="100%"/>
+
 </div>
 
 <br/>
 
-I'm Wahyudin, a passionate developer who loves exploring the world of programming just as much as I love exploring nature. With a solid foundation in web development, I navigate the ever-evolving landscape of technology with enthusiasm and dedication.
+<div align="center">
 
-I focus on creating web applications that not only provide precise experiences but are also user-friendly. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&multiline=false&width=600&lines=🌿+Hello+World!+I'm+Wahyudin;🏔️+Nature+Explorer+%26+Code+Crafter;🌊+Building+Digital+Experiences;🌲+Where+Code+Meets+The+Wild" alt="Typing SVG" />
 
-<div align="left">
-  <a href="mailto:emailanda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/Wahyudin0701">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/username-linkedin-anda">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Wahyudin0701&style=for-the-badge&color=2E7D32&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Wahyudin0701?style=for-the-badge&logo=github&color=4CAF50&label=FOLLOWERS" alt="GitHub Followers" />
 </div>
 
 <br/>
 
-### 🌲 Core Tech Stacks
-<div align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+---
+
+## 🌄 About Me
+
+```yaml
+name        : Wahyudin
+username    : Wahyudin0701
+location    : Indonesia 🇮🇩
+passion     : [Web Development, Nature Travel, Photography]
+philosophy  : "Code like a river — always finding the path forward."
+
+currently   :
+  - 🌿 Building robust web applications with Laravel & PHP
+  - 🏕️  Exploring remote islands and mountains of Indonesia
+  - 📸  Documenting adventures through the lens
+
+fun_fact    : My best debugging sessions happen after a hike 🏔️
+```
+
+<br/>
+
+---
+
+## 🌿 Connect With Me
+
+<div align="center">
+
+<a href="mailto:wahyudin0701@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://instagram.com/Wahyudin0701">
+  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/wahyudin0701">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/Wahyudin0701">
+  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Wahyudin0701&style=for-the-badge&color=1a6b3c&label=🌿+PROFILE+VIEWS" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Wahyudin0701?style=for-the-badge&logo=github&logoColor=white&color=2e7d32&label=FOLLOWERS" alt="GitHub Followers" />
+
+</div>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**🌐 Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+
+<br/><br/>
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,cpp,mysql&theme=dark" />
+
+<br/><br/>
+
+**🧰 Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wahyudin0701&show_icons=true&theme=merko&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&icon_color=81c784&border_color=2e7d32" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyudin0701&layout=compact&langs_count=8&theme=merko&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&border_color=2e7d32" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyudin0701&theme=dark&background=0d1117&ring=4caf50&fire=81c784&currStreakLabel=4caf50&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555&border=2e7d32" alt="streak-stats" />
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution Trail
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudin0701/Wahyudin0701/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahyudin0701/Wahyudin0701/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Wahyudin0701/Wahyudin0701/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+## 🏔️ My Adventure Motto
+
+<div align="center">
+
+> *"The mountains are calling and I must go — but first, let me push this commit."*
+>
+> — Wahyudin, somewhere between the peaks and the keyboard 🌿
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d3b1e,50:1a6b3c,100:4caf50&reversal=true" width="100%"/>
+
 </div>
