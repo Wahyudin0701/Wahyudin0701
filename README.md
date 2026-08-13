@@ -48,57 +48,6 @@ Beyond the screen, I am a dedicated **nature traveler** - someone who navigates 
 
 </div>
 
----
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wahyudin0701&show_icons=true&theme=merko&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&icon_color=81c784&border_color=2e7d32" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wahyudin0701&layout=compact&langs_count=8&theme=merko&bg_color=0d1117&title_color=4caf50&text_color=c9d1d9&border_color=2e7d32" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wahyudin0701&theme=dark&background=0d1117&ring=4caf50&fire=81c784&currStreakLabel=4caf50&sideLabels=c9d1d9&sideNums=c9d1d9&dates=555555&border=2e7d32" alt="streak-stats" />
-
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Trail
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wahyudin0701/Wahyudin0701/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wahyudin0701/Wahyudin0701/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Wahyudin0701/Wahyudin0701/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-## 🏔️ My Adventure Motto
-
-<div align="center">
-
-> *"The mountains are calling and I must go — but first, let me push this commit."*
->
-> — Wahyudin, somewhere between the peaks and the keyboard 🌿
-
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
