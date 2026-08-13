@@ -16,6 +16,12 @@
 
 <br/>
 
+I'm **Wahyudin**, a student majoring in **Information Systems at Universitas Jambi**. I have a strong passion for web development and building applications that are both functional and user-friendly. With hands-on experience in **PHP, Laravel, and C++**, I continuously navigate the ever-evolving landscape of technology with enthusiasm and dedication.
+
+Beyond the screen, I am an avid **nature traveler** — someone who finds clarity and creativity in the wilderness. From the turquoise waters of Raja Ampat to the misty highlands of Sumatra, every journey fuels my perspective as a developer. I believe the best solutions, much like the best trails, are found by those willing to explore beyond the obvious path.
+
+I thrive in collaborative environments where I can contribute not only my technical skills, but also a grounded, curious mindset shaped by both code and the open road. 🌿
+
 ---
 
 ## 🌄 About Me
@@ -23,16 +29,30 @@
 ```yaml
 name        : Wahyudin
 username    : Wahyudin0701
-location    : Indonesia 🇮🇩
-passion     : [Web Development, Nature Travel, Photography]
-philosophy  : "Code like a river — always finding the path forward."
+location    : Jambi, Indonesia 🇮🇩
+education   : Information Systems — Universitas Jambi (UNJA)
+status      : Active Student & Aspiring Full-Stack Developer
+
+passion     :
+  - 💻  Building clean, functional web applications
+  - 🏔️  Exploring the hidden gems of the Indonesian archipelago
+  - 📸  Capturing nature's beauty through photography
+
+tech_focus  : [PHP, Laravel, C++, HTML, CSS, JavaScript]
 
 currently   :
-  - 🌿 Building robust web applications with Laravel & PHP
-  - 🏕️  Exploring remote islands and mountains of Indonesia
-  - 📸  Documenting adventures through the lens
+  - 🌿 Deepening my skills in Laravel & backend development
+  - 🌊 Planning my next island-hopping adventure
+  - 📖 Growing through every project, one commit at a time
 
-fun_fact    : My best debugging sessions happen after a hike 🏔️
+goals       :
+  - 🚀 Become a professional Full-Stack Developer
+  - 🗺️  Visit all 17,000+ islands of Indonesia
+  - 🤝 Contribute to open-source projects that matter
+
+philosophy  : "The best code, like the best trails, is clear, purposeful, and leads somewhere worth going."
+
+fun_fact    : I get my best ideas mid-hike. Nature is my rubber duck 🦆🌲
 ```
 
 <br/>
