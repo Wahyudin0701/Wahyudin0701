@@ -22,38 +22,11 @@ Beyond the screen, I am an avid **nature traveler** — someone who finds clarit
 
 I thrive in collaborative environments where I can contribute not only my technical skills, but also a grounded, curious mindset shaped by both code and the open road. 🌿
 
----
+<div align="center">
 
-## 🌄 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=4000&pause=2000&color=81C784&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%22The+best+code%2C+like+the+best+trails%2C+is+clear%2C%22;%22purposeful%2C+and+leads+somewhere+worth+going.%22" alt="Philosophy quote animation" />
 
-```yaml
-name        : Wahyudin
-username    : Wahyudin0701
-location    : Jambi, Indonesia 🇮🇩
-education   : Information Systems — Universitas Jambi (UNJA)
-status      : Active Student & Aspiring Full-Stack Developer
-
-passion     :
-  - 💻  Building clean, functional web applications
-  - 🏔️  Exploring the hidden gems of the Indonesian archipelago
-  - 📸  Capturing nature's beauty through photography
-
-tech_focus  : [PHP, Laravel, C++, HTML, CSS, JavaScript]
-
-currently   :
-  - 🌿 Deepening my skills in Laravel & backend development
-  - 🌊 Planning my next island-hopping adventure
-  - 📖 Growing through every project, one commit at a time
-
-goals       :
-  - 🚀 Become a professional Full-Stack Developer
-  - 🗺️  Visit all 17,000+ islands of Indonesia
-  - 🤝 Contribute to open-source projects that matter
-
-philosophy  : "The best code, like the best trails, is clear, purposeful, and leads somewhere worth going."
-
-fun_fact    : I get my best ideas mid-hike. Nature is my rubber duck 🦆🌲
-```
+</div>
 
 <br/>
 
