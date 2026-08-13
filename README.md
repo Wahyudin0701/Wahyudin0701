@@ -5,8 +5,6 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <!-- ANIMATED TYPING -->
@@ -16,11 +14,11 @@
 
 <br/>
 
-I'm **Wahyudin**, a student majoring in **Information Systems at Universitas Jambi**. I have a strong passion for web development and building applications that are both functional and user-friendly. With hands-on experience in **PHP, Laravel, and C++**, I continuously navigate the ever-evolving landscape of technology with enthusiasm and dedication.
+I'm **Wahyudin**, an **Information Systems student at Universitas Jambi (UNJA)** with a proven ability to design and deliver web-based solutions from concept to deployment. I specialize in **backend development using PHP & Laravel**, with working proficiency in **C++, HTML, CSS, and JavaScript** — building systems that are structured, scalable, and built with the end user in mind.
 
-Beyond the screen, I am an avid **nature traveler** — someone who finds clarity and creativity in the wilderness. From the turquoise waters of Raja Ampat to the misty highlands of Sumatra, every journey fuels my perspective as a developer. I believe the best solutions, much like the best trails, are found by those willing to explore beyond the obvious path.
+I have contributed to real-world academic and collaborative projects including **attendance systems, UMKM integration platforms, and web management tools** — demonstrating the ability to meet deadlines, adapt to team dynamics, and translate requirements into functional software. I write clean, maintainable code and take ownership of my work from the first commit to final delivery.
 
-I thrive in collaborative environments where I can contribute not only my technical skills, but also a grounded, curious mindset shaped by both code and the open road. 🌿
+Beyond the screen, I am a dedicated **nature traveler** — someone who navigates uncertainty, reads environments quickly, and stays composed under pressure. These traits translate directly into how I approach problem-solving in software: with patience, curiosity, and a clear sense of direction. 🌿
 
 <div align="center">
 
