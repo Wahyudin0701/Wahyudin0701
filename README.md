@@ -38,33 +38,31 @@ Beyond the screen, I am a dedicated **nature traveler** - someone who navigates 
 
 <div align="center">
 
-## 🌿 Connect With Me
+## Connect With Me
 
 <br/>
 
 <a href="mailto:muhammadwahyudin0701@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-muhammadwahyudin0701%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-muhammadwahyudin0701%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>
 </a>
-
-<br/><br/>
-
-<a href="https://instagram.com/why.udin_">
-  <img src="https://img.shields.io/badge/Instagram-why.udin_-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/muhammad-wahyudin">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Wahyudin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Wahyudin0701">
-  <img src="https://img.shields.io/badge/GitHub-Wahyudin0701-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Wahyudin0701&style=flat-square&color=1a6b3c&label=Profile+Views" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Wahyudin0701?style=flat-square&logo=github&logoColor=white&color=2e7d32&label=Followers" alt="GitHub Followers" />
+<a href="https://instagram.com/why.udin_">
+  <img src="https://img.shields.io/badge/-why.udin__-C13584?style=flat-square&logo=instagram&logoColor=white" height="28"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/muhammad-wahyudin">
+  <img src="https://img.shields.io/badge/-Muhammad%20Wahyudin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+</a>
+&nbsp;
+<a href="https://github.com/Wahyudin0701">
+  <img src="https://img.shields.io/badge/-Wahyudin0701-24292e?style=flat-square&logo=github&logoColor=white" height="28"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Wahyudin0701&style=flat-square&color=1a6b3c&label=Profile+Views" height="22"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Wahyudin0701?style=flat-square&logo=github&logoColor=white&color=2e7d32&label=Followers" height="22"/>
 
 </div>
 
